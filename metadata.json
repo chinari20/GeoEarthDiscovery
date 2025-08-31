@@ -1,0 +1,5 @@
+{
+  "name": "NASA Earth Event Navigator",
+  "description": "An intelligent web application to discover, visualize, and access NASA's vast Earth science datasets. Users can explore data by categories like floods, volcanoes, and wildfires, or use an interactive globe to find relevant datasets based on disaster keywords.",
+  "requestFramePermissions": []
+}
